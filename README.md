@@ -25,6 +25,7 @@ More details about the AWS environment itself, can be found into **Environment d
 |[security_groups.tf](security_groups.tf)| Terraform code related to security groups of TFE instance and PostgreSQL |
 |[variables_and_provider.tf](variables_and_provider.tf)| All variables in this project. Please review and edit if needed |
 |[vpc.tf](vpc.tf)| Terraform code related to the whole network infrastructure |
+|[bucket.tf](bucket.tf)| Terraform code related to PTFE instance bucket creation |
 
 
 ## Pre-requirements for this project
